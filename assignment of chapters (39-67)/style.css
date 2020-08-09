@@ -1,0 +1,43 @@
+img {
+    border: 1px solid #000;
+    margin: 5px;
+    cursor: pointer;
+}
+
+td {
+    padding: 6px;
+}
+
+#counter {
+    background-color: burlywood;
+    padding: 12px 20px;
+    font-size: 30px;
+    font-family: monospace;
+    width: fit-content;
+    display: inline-block;
+    text-align: center;
+}
+
+.form {
+    width: fit-content;
+    padding: 10px;
+}
+
+.form form div label {
+    width: 80px;
+    display: inline-block;
+}
+
+.form form div {
+    margin: 10px 0;
+}
+
+.form form div input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#more {
+    display: none;
+}
